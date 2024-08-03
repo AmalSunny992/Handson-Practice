@@ -1,6 +1,17 @@
 # Handson-Practice
 This Repository is what I do as Hands On Practice
 
+Docker : [Docker Practice Exercises](Docker.md) 
+
+Kubernetes : [Kubernetes Practice Exercises](Kubernetes.md)
+
+Linux : [Linux Practice Exercises](Linux.md)
+
+Ansible : [Ansible Practice Exercises](Ansible.md)
+
+Jenkins : [Jenkins Practice Exercises](Jenkins.md)
+
+Terraform : [Terraform Practice Exercises](Terraform.md)
 
 # Company : xFusionCorp
 
